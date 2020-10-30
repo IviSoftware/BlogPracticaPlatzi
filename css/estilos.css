@@ -6,12 +6,13 @@ body{
     height: 100%;
     display: flex;
     justify-content: center;
+    padding-top: 30px;
     
 }
 
 .contenido{
     flex-basis: 700px;
-    height: 200px;
+    height: 250px;
     border: 2px solid black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -24,6 +25,7 @@ body{
 
 .contenido h1{
     font-size: 20px;
+    
 }
 
 
